@@ -1,111 +1,161 @@
-<h1 align="center">Hi, I'm Tehreem </h1>
+<div align="center">
+
+```
+ _____ ___ _  _ ___ ___ ___ ___ __  __ 
+|_   _| __| || | _ \ __| __| __|  \/  |
+  | | | _|| __ |   / _|| _|| _|| |\/| |
+  |_| |___|_||_|_|_\___|___|___|_|  |_|
+```
+
+</div>
+
+<h2 align="center">Syeda Tehreem Ali Bukhari</h2>
 
 <p align="center">
-  <b>AI & Computer Vision Engineer · Software Engineering Student @ COMSATS '27</b><br>
-  <i>Microsoft Learn Student Ambassador (Beta) · Building things that see, hear, and think</i>
+  <b>Applied AI Engineer &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; ML Systems &nbsp;·&nbsp; Generative AI</b><br>
+  <sub>Software Engineering @ COMSATS '27 &nbsp;|&nbsp; Microsoft Learn Student Ambassador (Beta)</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syeda-tehreem-ali-bukhari-29913827a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tehreembukhari640@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=tehrimaly&style=flat&color=6366f1" />
+  <a href="https://www.linkedin.com/in/syeda-tehreem-ali-bukhari-29913827a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:tehreembukhari640@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=tehrimaly&style=flat-square&color=6366f1&label=profile+views"/>
 </p>
 
 ---
 
-## About me
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&width=300&lines=99.57%25+accuracy+on+DDoS+detection;Building+real+AI%2C+not+demos;Computer+Vision+%2B+ML+%2B+GenAI;Open+to+AI+%2F+ML+internships" />
 
-I'm a Software Engineering student specialising in **Machine Learning** and **Computer Vision**. I build end-to-end AI systems — from training models on large datasets to deploying interactive interfaces. I'm also a **Microsoft Learn Student Ambassador** and a Creative Ambassador at GDSC.
+### I don't just experiment — I ship.
 
-Currently looking for **AI / ML / Data Science internships** (remote or Lahore-based).
+I build AI systems that are **deployable, measurable, and production-oriented** — not limited to Jupyter notebooks. My work spans ML classification pipelines, real-time computer vision, embedded AI, and augmented reality, with a current focus on LLM fine-tuning and RAG architecture.
 
----
+-  Achieved **99.57% accuracy** detecting DDoS attacks on 125K+ network flows
+-  Built a touchless HCI system using face + gesture + voice — **zero extra hardware**
+-  Replicated a full AI perceive-process-respond loop **entirely in embedded hardware**
+-  Shipped an AR learning app with **adaptive assessments** for STEM students
+-  Currently: LLM fine-tuning · RAG pipelines · Transformer evaluation frameworks
 
-## Featured projects
-
-### DDoS Attack Detection System
-> ML-powered network intrusion detection — **99.57% accuracy** on 125,000+ network flows
-
-- Trained **XGBoost Classifier** on CIC-DDoS2019 dataset (77 features, 9 traffic classes)
-- Deployed interactive **Streamlit** dashboard for real-time traffic monitoring
-- Stack: `Python` `XGBoost` `Scikit-learn` `Pandas` `Streamlit` `Jupyter`
-
-🔗 [View repo →](https://github.com/tehrimaly/DDOS-Attack-Detection)
+<br clear="right"/>
 
 ---
 
-###  Multimodal HCI — Voice + Gesture + Face Control
-> Ditches the mouse and keyboard entirely with real-time multimodal input
+##  Featured projects
 
-- Combines **face tracking**, **hand gestures**, and **voice automation** in one system
-- Stack: `Python` `MediaPipe` `OpenCV` `Speech Recognition`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 [View repo →](https://github.com/tehrimaly/VGF-Voice-Gesture-Face-Control-)
+###  DDoS Attack Detection
+**99.57% accuracy · 125,170 flows · 9 attack classes**
+
+XGBoost classifier trained on the CIC-DDoS2019 benchmark with 77 engineered features. Real-time Streamlit inference dashboard with per-class diagnostics, confusion matrices, and outlier analysis.
+
+`Python` `XGBoost` `Scikit-learn` `Streamlit` `Pandas`
+
+[→ View repo](https://github.com/tehrimaly/DDOS-Attack-Detection)
+
+</td>
+<td width="50%" valign="top">
+
+###  VGF — Multimodal HCI
+**Face + Gesture + Voice · Single camera · No extra hardware**
+
+Touchless laptop control system combining real-time face tracking, hand gesture recognition, and voice automation from one camera feed. No specialized hardware required.
+
+`Python` `MediaPipe` `OpenCV` `Speech Recognition`
+
+[→ View repo](https://github.com/tehrimaly/VGF-Voice-Gesture-Face-Control-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AURA — Embedded AI Assistant
+**Offline · Multimodal · Full perceive-process-respond loop in hardware**
+
+Voice-response assistant on Arduino Mega integrating speech input, TFT LCD visual output, and DFPlayer audio synthesis — replicating a multimodal AI system entirely without cloud dependency.
+
+`Embedded C++` `Python` `Arduino Mega` `Serial Comm`
+
+[→ View repo](https://github.com/tehrimaly/AURA)
+
+</td>
+<td width="50%" valign="top">
+
+###  NeuroTick — AR Learning App
+**AR · Adaptive assessments · STEM · Flutter**
+
+Mobile app that transforms static textbook content into interactive AR 3D experiences with real-time adaptive assessments that adjust dynamically to learner performance.
+
+`Flutter` `Firebase` `Cloud Firestore` `AR Frameworks`
+
+[→ View repo](https://github.com/tehrimaly/NeuroTick)
+
+</td>
+</tr>
+</table>
 
 ---
 
-###  NeuroTick: AR Learning App
-> Transforms flat textbook content into 3D AR experiences with adaptive assessments
+##  Tech stack
 
-- Built with **Flutter** + **Firebase** + **Cloud Firestore**
-- Designed for STEM students; gamified learning with persistent cross-device sessions
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00A9E0?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-🔗 [View repo →](https://github.com/tehrimaly/NeuroTick)
-
----
-
-### AURA: Voice-Controlled Hardware Assistant
-> Arduino-powered assistant that listens, thinks, and responds via TFT LCD + audio
-
-- Stack: `Arduino Mega` `C++` `DFPlayer` `Serial Communication`
-
-🔗 [View repo →](https://github.com/tehrimaly/AURA)
-
----
-
-## Tech stack
-
-| Area | Tools |
+| Domain | Expertise |
 |---|---|
-| **AI / ML** | XGBoost, Random Forest, Scikit-learn, MediaPipe |
-| **Computer Vision** | OpenCV, MediaPipe |
-| **Data** | Pandas, NumPy, Tableau, Power BI, Matplotlib |
-| **Languages** | Python · Java · C++ · Dart · SQL · JavaScript |
-| **Mobile / Web** | Flutter, Firebase, HTML5, CSS3, Bootstrap |
-| **Tools** | Git, Linux, MongoDB, Streamlit, Wireshark |
+| **ML / AI** | XGBoost · Random Forest · Scikit-learn · Model evaluation & diagnostics |
+| **Computer Vision** | OpenCV · MediaPipe · Real-time CV pipelines · Gesture & face tracking |
+| **GenAI (active focus)** | LLM fine-tuning · RAG pipelines · Prompt engineering · Transformer evaluation |
+| **Data** | Pandas · NumPy · Matplotlib · Tableau · Power BI |
+| **Languages** | Python · C++ · Dart · Java · SQL · JavaScript |
+| **Mobile / Web** | Flutter · Firebase · HTML5 · Bootstrap |
 
 ---
 
-## Certifications & leadership
+##  Recognition
 
--  **Beta Microsoft Learn Student Ambassador** — Microsoft
--  **Advanced Python** — DataCamp
--  **Creative Ambassador** — Google Developer Student Club (GDSC)
--  **Team Manager** — DevHub | **Creative Director** — Notions
+| | |
+|---|---|
+|  **Beta Microsoft Learn Student Ambassador** | Microsoft |
+|  **Creative Ambassador** | Google Developer Student Club (GDSC) |
+|  **Python Certified** (Intro + Intermediate) | DataCamp |
+|  **Team Manager** | DevHub |
+|  **Creative Director** | Notions |
 
 ---
+
+##  Let's connect
+
+> I'm actively seeking **AI / ML / Data Science internships** — remote or Lahore-based.
+> I bring production-aware thinking, real project metrics, and the hunger to build things that matter.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-00A9E0?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <a href="mailto:tehreembukhari640@gmail.com"><b>tehreembukhari640@gmail.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/syeda-tehreem-ali-bukhari-29913827a/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/tehrimaly">GitHub</a>
 </p>
+
 ---
 
 <p align="center">
-  <i>Open to internship opportunities in AI · ML · Data Science · Python</i><br>
-  <a href="mailto:tehreembukhari640@gmail.com">tehreembukhari640@gmail.com</a>
+  <sub><i>"The goal is not to build AI that impresses — it's to build AI that works."</i></sub>
 </p>
