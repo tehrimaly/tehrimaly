@@ -1,16 +1,102 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tehreem </h1>
 
-<!--
-**tehrimaly/tehrimaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI & Computer Vision Engineer · Software Engineering Student @ COMSATS '27</b><br>
+  <i>Microsoft Learn Student Ambassador (Beta) · Building things that see, hear, and think</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/syeda-tehreem-ali-bukhari-29913827a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tehreembukhari640@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tehrimaly&style=flat&color=6366f1" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+I'm a Software Engineering student specialising in **Machine Learning** and **Computer Vision**. I build end-to-end AI systems — from training models on large datasets to deploying interactive interfaces. I'm also a **Microsoft Learn Student Ambassador** and a Creative Ambassador at GDSC.
+
+Currently looking for **AI / ML / Data Science internships** (remote or Lahore-based).
+
+---
+
+## Featured projects
+
+### DDoS Attack Detection System
+> ML-powered network intrusion detection — **99.57% accuracy** on 125,000+ network flows
+
+- Trained **XGBoost Classifier** on CIC-DDoS2019 dataset (77 features, 9 traffic classes)
+- Deployed interactive **Streamlit** dashboard for real-time traffic monitoring
+- Stack: `Python` `XGBoost` `Scikit-learn` `Pandas` `Streamlit` `Jupyter`
+
+🔗 [View repo →](https://github.com/tehrimaly/DDOS-Attack-Detection)
+
+---
+
+###  Multimodal HCI — Voice + Gesture + Face Control
+> Ditches the mouse and keyboard entirely with real-time multimodal input
+
+- Combines **face tracking**, **hand gestures**, and **voice automation** in one system
+- Stack: `Python` `MediaPipe` `OpenCV` `Speech Recognition`
+
+🔗 [View repo →](https://github.com/tehrimaly/VGF-Voice-Gesture-Face-Control-)
+
+---
+
+###  NeuroTick: AR Learning App
+> Transforms flat textbook content into 3D AR experiences with adaptive assessments
+
+- Built with **Flutter** + **Firebase** + **Cloud Firestore**
+- Designed for STEM students; gamified learning with persistent cross-device sessions
+
+🔗 [View repo →](https://github.com/tehrimaly/NeuroTick)
+
+---
+
+### AURA: Voice-Controlled Hardware Assistant
+> Arduino-powered assistant that listens, thinks, and responds via TFT LCD + audio
+
+- Stack: `Arduino Mega` `C++` `DFPlayer` `Serial Communication`
+
+🔗 [View repo →](https://github.com/tehrimaly/AURA)
+
+---
+
+## Tech stack
+
+| Area | Tools |
+|---|---|
+| **AI / ML** | XGBoost, Random Forest, Scikit-learn, MediaPipe |
+| **Computer Vision** | OpenCV, MediaPipe |
+| **Data** | Pandas, NumPy, Tableau, Power BI, Matplotlib |
+| **Languages** | Python · Java · C++ · Dart · SQL · JavaScript |
+| **Mobile / Web** | Flutter, Firebase, HTML5, CSS3, Bootstrap |
+| **Tools** | Git, Linux, MongoDB, Streamlit, Wireshark |
+
+---
+
+## Certifications & leadership
+
+-  **Beta Microsoft Learn Student Ambassador** — Microsoft
+-  **Advanced Python** — DataCamp
+-  **Creative Ambassador** — Google Developer Student Club (GDSC)
+-  **Team Manager** — DevHub | **Creative Director** — Notions
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tehrimaly&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehrimaly&layout=compact&hide_border=true&theme=default" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to internship opportunities in AI · ML · Data Science · Python</i><br>
+  <a href="mailto:tehreembukhari640@gmail.com">tehreembukhari640@gmail.com</a>
+</p>
