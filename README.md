@@ -1,13 +1,3 @@
-<div align="center">
-
-```
- _____ ___ _  _ ___ ___ ___ ___ __  __ 
-|_   _| __| || | _ \ __| __| __|  \/  |
-  | | | _|| __ |   / _|| _|| _|| |\/| |
-  |_| |___|_||_|_|_\___|___|___|_|  |_|
-```
-
-</div>
 
 <h2 align="center">Syeda Tehreem Ali Bukhari</h2>
 
@@ -26,7 +16,7 @@
 
 <img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&width=300&lines=99.57%25+accuracy+on+DDoS+detection;Building+real+AI%2C+not+demos;Computer+Vision+%2B+ML+%2B+GenAI;Open+to+AI+%2F+ML+internships" />
 
-### I don't just experiment — I ship.
+### I don't just experiment, I ship.
 
 I build AI systems that are **deployable, measurable, and production-oriented** — not limited to Jupyter notebooks. My work spans ML classification pipelines, real-time computer vision, embedded AI, and augmented reality, with a current focus on LLM fine-tuning and RAG architecture.
 
@@ -75,7 +65,7 @@ Touchless laptop control system combining real-time face tracking, hand gesture 
 ### AURA — Embedded AI Assistant
 **Offline · Multimodal · Full perceive-process-respond loop in hardware**
 
-Voice-response assistant on Arduino Mega integrating speech input, TFT LCD visual output, and DFPlayer audio synthesis — replicating a multimodal AI system entirely without cloud dependency.
+Voice-response assistant on Arduino Mega integrating speech input, TFT LCD visual output, and DFPlayer audio synthesis replicating a multimodal AI system entirely without cloud dependency.
 
 `Embedded C++` `Python` `Arduino Mega` `Serial Comm`
 
@@ -143,7 +133,7 @@ Mobile app that transforms static textbook content into interactive AR 3D experi
 
 ##  Let's connect
 
-> I'm actively seeking **AI / ML / Data Science internships** — remote or Lahore-based.
+> I'm actively seeking **AI / ML / Data Science internships** remote or Lahore-based.
 > I bring production-aware thinking, real project metrics, and the hunger to build things that matter.
 
 <p align="center">
@@ -157,5 +147,5 @@ Mobile app that transforms static textbook content into interactive AR 3D experi
 ---
 
 <p align="center">
-  <sub><i>"The goal is not to build AI that impresses — it's to build AI that works."</i></sub>
+  <sub><i>"The goal is not to build AI that impresses, it's to build AI that works."</i></sub>
 </p>
