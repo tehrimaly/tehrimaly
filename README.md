@@ -48,7 +48,7 @@ XGBoost classifier trained on the CIC-DDoS2019 benchmark with 77 engineered feat
 </td>
 <td width="50%" valign="top">
 
-###  VGF — Multimodal HCI
+###  VGF: Multimodal HCI
 **Face + Gesture + Voice · Single camera · No extra hardware**
 
 Touchless laptop control system combining real-time face tracking, hand gesture recognition, and voice automation from one camera feed. No specialized hardware required.
@@ -62,7 +62,7 @@ Touchless laptop control system combining real-time face tracking, hand gesture 
 <tr>
 <td width="50%" valign="top">
 
-### AURA — Embedded AI Assistant
+### AURA: Embedded AI Assistant
 **Offline · Multimodal · Full perceive-process-respond loop in hardware**
 
 Voice-response assistant on Arduino Mega integrating speech input, TFT LCD visual output, and DFPlayer audio synthesis replicating a multimodal AI system entirely without cloud dependency.
@@ -74,7 +74,7 @@ Voice-response assistant on Arduino Mega integrating speech input, TFT LCD visua
 </td>
 <td width="50%" valign="top">
 
-###  NeuroTick — AR Learning App
+###  NeuroTick: AR Learning App
 **AR · Adaptive assessments · STEM · Flutter**
 
 Mobile app that transforms static textbook content into interactive AR 3D experiences with real-time adaptive assessments that adjust dynamically to learner performance.
