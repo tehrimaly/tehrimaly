@@ -24,7 +24,7 @@
 
 ### I don't just experiment, I ship.
 
-I build AI systems that are **deployable, measurable, and production-oriented** — not limited to Jupyter notebooks. My work spans ML classification pipelines, real-time computer vision, embedded AI, and augmented reality, with a current focus on LLM fine-tuning and RAG architecture.
+I build AI systems that are **deployable, measurable, and production-oriented** not limited to Jupyter notebooks. My work spans ML classification pipelines, real-time computer vision, embedded AI, and augmented reality, with a current focus on LLM fine-tuning and RAG architecture.
 
 -  Achieved **99.57% accuracy** detecting DDoS attacks on 125K+ network flows
 -  Built a touchless HCI system using face + gesture + voice — **zero extra hardware**
@@ -70,7 +70,7 @@ Touchless laptop control system combining real-time face tracking, hand gesture 
 ### AURA: Embedded AI Assistant
 **Offline · Multimodal · Full perceive-process-respond loop in hardware**
 
-Voice-response assistant on Arduino Mega integrating speech input, TFT LCD visual output, and DFPlayer audio synthesis — replicating a multimodal AI system entirely without cloud dependency.
+Voice-response assistant on Arduino Mega integrating speech input, TFT LCD visual output, and DFPlayer audio synthesis replicating a multimodal AI system entirely without cloud dependency.
 
 `Embedded C++` `Python` `Arduino Mega` `Serial Comm`
 
@@ -94,7 +94,7 @@ Mobile app that transforms static textbook content into interactive AR 3D experi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
