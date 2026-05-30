@@ -27,7 +27,7 @@
 I build AI systems that are **deployable, measurable, and production-oriented** not limited to Jupyter notebooks. My work spans ML classification pipelines, real-time computer vision, embedded AI, and augmented reality, with a current focus on LLM fine-tuning and RAG architecture.
 
 -  Achieved **99.57% accuracy** detecting DDoS attacks on 125K+ network flows
--  Built a touchless HCI system using face + gesture + voice — **zero extra hardware**
+-  Built a touchless HCI system using face + gesture + voice **zero extra hardware**
 -  Replicated a full AI perceive-process-respond loop **entirely in embedded hardware**
 -  Shipped an AR learning app with **adaptive assessments** for STEM students
 -  Currently: LLM fine-tuning · RAG pipelines · Transformer evaluation frameworks
