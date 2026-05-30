@@ -34,25 +34,6 @@ I build AI systems that are **deployable, measurable, and production-oriented** 
 
 <br clear="right"/>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tehrimaly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehrimaly&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tehrimaly&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tehrimaly&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## Featured Projects
 
