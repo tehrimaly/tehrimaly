@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syeda-tehreem-ali-bukhari-29913827a/">
+  <a href="https://www.linkedin.com/in/tehrimaly/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:tehreembukhari640@gmail.com">
