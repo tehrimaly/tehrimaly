@@ -152,17 +152,9 @@ Mobile app that transforms static textbook content into interactive AR 3D experi
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tehrimaly&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 ##  Let's Connect
 
-> I'm actively seeking **AI / ML / Data Science internships** remote or on-site.  
+> I'm actively seeking **AI / ML / Data Science Role** remote or on-site.  
 > I bring production-aware thinking, real project metrics, and the drive to build things that matter.
 
 <p align="center">
