@@ -17,7 +17,7 @@
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=tehrimaly&style=flat-square&color=6366f1&label=profile+views"/>
 </p>
-
+  
 ---
 
 <img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6366F1&width=300&lines=99.57%25+accuracy+on+DDoS+detection;Building+real+AI%2C+not+demos;Computer+Vision+%2B+ML+%2B+GenAI;LLM+fine-tuning+%2B+RAG+pipelines;Open+to+AI+%2F+ML+internships" />
