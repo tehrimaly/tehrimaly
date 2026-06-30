@@ -158,7 +158,7 @@ Mobile app that transforms static textbook content into interactive AR 3D experi
 > I bring production-aware thinking, real project metrics, and the drive to build things that matter.
 
 <p align="center">
-  <a href="mailto:tehreembukhari640@gmail.com"><b>tehreembukhari640@gmail.com</b></a>
+  <a href="mailto:ofctehreemsyed@gmail.com"><b>ofctehreemsyed@gmail.com</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/tehrimaly/">LinkedIn</a>
   &nbsp;·&nbsp;
