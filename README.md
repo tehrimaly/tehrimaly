@@ -1,5 +1,5 @@
 <h2 align="center">Syeda Tehreem Ali Bukhari</h2>
-
+ 
 <p align="center"> 
   <b>Applied AI Engineer &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; ML Systems &nbsp;·&nbsp; Generative AI</b><br>
   <sub>Software Engineering @ COMSATS '27 &nbsp;|&nbsp; Microsoft Learn Student Ambassador (Beta)</sub>
