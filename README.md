@@ -18,7 +18,7 @@
 
 ## what i actually do
 
-I build AI that has to survive contact with reality — not just a notebook that runs once and gets screenshotted for LinkedIn. Think classification pipelines that hit real accuracy numbers, computer vision that runs on one webcam with zero extra hardware, and an embedded assistant that has never once touched the cloud.
+I build AI that has to survive contact with reality not just a notebook that runs once and gets screenshotted for LinkedIn. Think classification pipelines that hit real accuracy numbers, computer vision that runs on one webcam with zero extra hardware, and an embedded assistant that has never once touched the cloud.
 
 Current era: LLM fine-tuning, RAG pipelines, and figuring out why my agent confidently hallucinates things I never told it.
 
@@ -49,7 +49,7 @@ XGBoost on the CIC-DDoS2019 benchmark, 77 engineered features, real-time Streaml
 </td>
 <td width="50%" valign="top">
 
-**🖐️ VGF — Multimodal HCI**
+**🖐️ VGF Multimodal HCI**
 `face + gesture + voice · one camera · zero extra hardware`
 
 Touchless laptop control from a single webcam feed. No sensors, no gloves, no $200 dev kit — just you, mildly unsettling accuracy, and OpenCV.
@@ -63,7 +63,7 @@ Touchless laptop control from a single webcam feed. No sensors, no gloves, no $2
 <tr>
 <td width="50%" valign="top">
 
-**🔊 AURA — Embedded AI Assistant**
+**🔊 AURA Embedded AI Assistant**
 `offline · multimodal · no cloud, no excuses`
 
 A full perceive → process → respond loop running entirely on an Arduino Mega. Speech in, TFT + audio out. If the wifi's down, AURA doesn't care.
@@ -75,7 +75,7 @@ A full perceive → process → respond loop running entirely on an Arduino Mega
 </td>
 <td width="50%" valign="top">
 
-**📱 NeuroTick — AR Learning App**
+**📱 NeuroTick AR Learning App**
 `AR · adaptive assessments · STEM`
 
 Turns static textbook pages into interactive AR that adjusts to how the learner's actually doing, not how the syllabus assumes they're doing.
