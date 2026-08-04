@@ -144,7 +144,7 @@ Turns static textbook pages into interactive AR that adjusts to how the learner'
 - 🎓 Beta Microsoft Learn Student Ambassador
 - 🌱 Creative Ambassador, Google Developer Student Club
 - 🐍 Python Certified (Intro + Intermediate), DataCamp
-- 🛰️ NASA ARSET — Fundamentals of Remote Sensing
+- 🛰️ NASA ARSET Fundamentals of Remote Sensing
 - 🧭 Team Manager, DevHub · Creative Director, Notions
 
 <br>
