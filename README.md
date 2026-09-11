@@ -3,7 +3,7 @@
 # hey, i'm tehreem 👋 
  
 ### i teach machines to see, think, and occasionally not embarrass me in production
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Software+Engineering+%40+COMSATS+%C2%B7+%2727;99.57%25+accuracy+on+DDoS+detection;Currently+breaking+%2F+fixing+RAG+pipelines;Open+to+AI+%2F+ML+internships" alt="typing animation" />
 
 [![LinkedIn](https://img.shields.io/badge/-tehrimaly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tehrimaly/)
