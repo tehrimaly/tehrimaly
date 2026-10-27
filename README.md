@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=tehrimaly&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 
 </div>
-
+ 
 <br>
 
 ## what i actually do
